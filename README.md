@@ -187,6 +187,11 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Ferryhopper | Other | `https://mcp.ferryhopper.com/mcp` | Open | [Ferryhopper](https://ferryhopper.github.io/fh-mcp/) |
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
+| Calculator for Grading | Productivity | `https://calculatorforgrading.com/mcp?src=mcp` | Open | [Calculator for Grading](https://calculatorforgrading.com) |
+| CheckFitment | Other | `https://checkfitment.com/mcp?src=mcp` | Open | [CheckFitment](https://checkfitment.com) |
+| DroneClear Thailand | Other | `https://www.droneclearthailand.com/mcp?src=mcp` | Open | [DroneClear Thailand](https://www.droneclearthailand.com) |
+| Pflegegradpunkte | Other | `https://pflegegradpunkte.de/mcp?src=mcp` | Open | [Pflegegradpunkte](https://pflegegradpunkte.de) |
+| Rechtsklar24 | Other | `https://rechtsklar24.de/mcp?src=mcp` | Open | [Rechtsklar24](https://rechtsklar24.de) |
 
 # Remote MCP Installation Guide
 
